@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Thakur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.8fd6ae2f0922e6ed19909533860bde90?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f17707%2fscreenshots%2f2413754%2frrr.gif&ehk=erIZtubNbjKvMTXk4pMDGVUchz3gS1Cx1KThjw2lRE0%3d">
+<img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.8fd6ae2f0922e6ed19909533860bde90?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f17707%2fscreenshots%2f2413754%2frrr.gif&ehk=erIZtubNbjKvMTXk4pMDGVUchz3gS1Cx1KThjw2lRE0%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-thakur06&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-thakur06" /> </p>
 
